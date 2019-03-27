@@ -1,7 +1,7 @@
 # Tool Name :- Tool-X
-# Author :- Rajkumar dusad
+# Author :- Hanif Marri
 # Date :- 1/11/2017
-# Powered By :- Aex Software's
+# Powered By :- M Hanif Marri Baloch
 
 import os
 import sys
@@ -93,7 +93,7 @@ def Nerr():
 
 
 \033[1;36m ===============================================\033[1;m
-\033[1;33m|           Install Best Hacking Tool           |
+\033[1;33m|           Install Best Hacking Tool By Hanif Marri       |
 \033[1;36m ===============================================\033[1;m
 
 \033[1;31m  [ + ]  \033[1;31mWe can't install Tool-X.\033[1;m
